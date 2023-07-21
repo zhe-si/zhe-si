@@ -6,6 +6,7 @@
   - 也长期从事后端开发（开发社区项目）、安卓开发（字节跳动工作）。
   - 曾进行过很长一段时间机器人、多智能体协同、深度学习方向的研究。
 - 👋 希望与更多有志之士交流，交朋友。
+  - 个人主页：https://zhe-si.github.io/
   - 邮箱：1464445232@qq.com
   - 博客：[知乎](https://www.zhihu.com/people/zhe_si)、[掘金](https://juejin.cn/user/2251428374789688)、[博客园](https://www.cnblogs.com/zhe-si/)
   - Github：https://github.com/zhe-si
